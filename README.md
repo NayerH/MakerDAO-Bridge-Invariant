@@ -13,6 +13,7 @@ This bot detects if the total supply of DAI minted on L2s, Optimism and Arbitrum
 ## Alerts
 
 
+
 ## Test Data
 
 The agent behaviour can be verified with the following transactions:
